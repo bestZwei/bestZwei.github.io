@@ -5,10 +5,10 @@ subtitle:   "第一篇博文，当然是 Hello world"
 date:       2024-06-26
 author:     "Zwei"
 catalog:    true
-header-img: "img/hello.png"
+header-img: "img/su1993.jfif"
 tags:
     - 你好
-        - 日常
+    - 日常
 ---
 
 # Hello World
