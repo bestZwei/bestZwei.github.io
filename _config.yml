@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: null
-zhihu_username: null
+# weibo_username: null
+# zhihu_username: null
 github_username: bestZwei
-twitter_username: null
+# twitter_username: null
 #facebook_username:  null
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "黄玄（Hux）", href: "huxpro.github.io" },
+    { title: "Charliez", href: "https://github.com/charliez0" },
   ]
