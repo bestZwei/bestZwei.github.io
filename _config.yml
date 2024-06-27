@@ -73,7 +73,7 @@ ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: zwei.de.eu.org
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "萌新程序员 <br> 大三打工人 <br> post@zwei.de.eu.org"
+sidebar-about-description: "萌新程序员 <br> 准大三打工人 <br> post@zwei.de.eu.org"
 sidebar-avatar: https://pics.sputnik.cloudns.ch/file/d04bcd83ff6d314877dfc.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
