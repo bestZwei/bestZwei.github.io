@@ -4,7 +4,7 @@ SEOTitle: Zwei's Blog
 header-img: img/pdao.jpg
 email: post@zwei.de.eu.org
 description: "这里是 @Zwei 的个人博客，与你一起发现更大的世界 | 我要学知识！"
-keyword: "CS, Deutsch, 信息安全, 全栈, Zwei, @Zwei, Zwei的博客, Zwei Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "CS, Deutsch, 信息安全, 全栈, Zwei, @Zwei, Zwei的博客, Zwei's Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://zwei.de.eu.org" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
