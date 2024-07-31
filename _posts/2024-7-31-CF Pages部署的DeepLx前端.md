@@ -13,7 +13,7 @@ tags:
     - translate
 ---
 
-#### 项目地址 https://github.com/bestZwei/LibreTranslator
+#### 项目地址：https://github.com/bestZwei/LibreTranslator
 
 #### 效果展示：https://fy.is-a.dev
 
