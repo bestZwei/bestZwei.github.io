@@ -58,5 +58,3 @@ tags:
    这个变量用于配置 Node.js 的选项，通常用于解决某些依赖包的兼容性问题，不设置则可能部署失败。
 
 4. **REACT_APP_API_TOKEN（可选）**：按需修改，如果你是**自建的DeepLx服务**，参考请求链接是 `REACT_APP_DEEPLX_API_URL/translate?token=REACT_APP_API_TOKEN`，填写这两个环境变量。
-
-   常用的请求格式
